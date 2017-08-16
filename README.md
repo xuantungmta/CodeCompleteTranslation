@@ -12,5 +12,5 @@ Free, Open-source, Book
     <li>Content: Ghi rõ chương muốn tham gia dịch</li>
     </ul>
   </li>
-  4.Dịch và submit lên hệ thống
+  <li>Dịch và submit lên hệ thống</li>
 <ol>
