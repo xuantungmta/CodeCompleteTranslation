@@ -5,6 +5,7 @@ Free, Open-source, Book
 ### Hướng dẫn cách tham gia vào nhóm dịch
 
 hướng dẫn:
+
   1.Đăng kí tài khoảng github tại đây [link](https://github.com)
   2.Log in vào gitbook [link](https://www.gitbook.com) và tiến hành download trình editor [link](https://www.gitbook.com/editor) hoặc nhập nội dụng trực tiếp trên web
   3.Gửi mail đến địa chỉ xuantungmta@gmail.com với format sau
