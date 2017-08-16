@@ -5,7 +5,7 @@ Free, Open-source, Book
 ### Hướng dẫn cách tham gia vào nhóm dịch
 <ol>
   <li>Đăng kí tài khoảng github tại đây [link](https://github.com)</li>
-  <li>Log in vào gitbook [link](https://www.gitbook.com) bằng tài khoản git vừa tạo và tiến hành download trình editor [link](https://www.gitbook.com/editor) hoặc nhập nội dụng trực tiếp trên web</li>
+  <li>Log in vào gitbook [link](https://www.gitbook.com) bằng tài khoản git vừa tạo và tiến hành download trình editor [link](https://www.gitbook.com/editor) hoặc có thể soạn thảo trực tiếp trên web</li>
   <li>Gửi mail đến địa chỉ <strong>xuantungmta@gmail.com</strong> với format sau
     <ul>
     <li>Title: Yêu cầu tham gia nhóm dịch sách Code complete 2</li>
