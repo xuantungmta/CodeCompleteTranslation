@@ -11,6 +11,7 @@ Free, Open-source, Book
     <li>Title: Yêu cầu tham gia nhóm dịch sách Code complete 2</li>
     <li>Content: Ghi rõ chương muốn tham gia dịch</li>
     <li>Facebook: Link facebook</li>
+    <li>Github: Username github</l>
     </ul>
     Admin sẽ phê duyệt yêu cầu và join vào collaborator
   </li>
