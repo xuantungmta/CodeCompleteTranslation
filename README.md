@@ -16,7 +16,7 @@ Free, Open-source, Book
     Admin sẽ phê duyệt yêu cầu và join vào collaborator
   </li>
   <li>Xác nhập tham gia dự án trong mail</li>
-  <li>Dịch và submit lên hệ thống</li>
+  <li>Mở gitbook editor hoặc vào [link](https://www.gitbook.com) Dịch và submit lên hệ thống</li>
 </ol>
 
 ### Nguồn sách
