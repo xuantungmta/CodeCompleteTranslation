@@ -14,11 +14,13 @@ Free, Open-source, Book
   </li>
   <li>Dịch và submit lên hệ thống</li>
 <ol>
+
 ### Nguồn sách
 <ol>
   <li>Bản gốc [link](https://goo.gl/WRW4N6)</li>
   <li>Bản Tiếng Việt [link](https://goo.gl/gY7Kiq)</li>
 </ol>
+
 ### Triết lí
 <ol>
   <li>Mã nguồn mở</li>
