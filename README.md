@@ -13,7 +13,7 @@ Free, Open-source, Book
     </ul>
   </li>
   <li>Dịch và submit lên hệ thống</li>
-<ol>
+</ol>
 
 ### Nguồn sách
 <ol>
